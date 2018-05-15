@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 02-rest-services-upload
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MilindHP
+Implementation-Vendor-Id: com.test.spring.boot
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/02-rest-serv
+ ices-upload/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
