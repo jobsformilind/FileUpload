@@ -1,4 +1,5 @@
 @echo off 
+rem git config credential.helper store
 
 echo ---Pull-----------------------------
 git pull
